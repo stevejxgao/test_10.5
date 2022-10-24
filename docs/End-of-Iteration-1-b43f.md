@@ -1,0 +1,4 @@
+
+Woo! You made it, hope you are enjoying the ride so far. The only things you will need to submit for this part are the bCourses assignments ([Self-assessment survey](https://bcourses.berkeley.edu/courses/1507976/quizzes/2367462), [Peer Review](https://bcourses.berkeley.edu/courses/1507976/quizzes/2367478), and [Retrospective](https://bcourses.berkeley.edu/courses/1507976/quizzes/2367505)). 
+
+In addition, you should have all the condition met for iteration 1 tasks, including the test coverage! The GSIs will be checking your code functionality as well as coverage and scaling iteration grades accordingly if you miss any of the tasks or have low coverage. Once you and your team feels satisfied with this iteration, feel free to jump into the second iteration.
